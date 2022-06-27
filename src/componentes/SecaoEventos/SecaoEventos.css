@@ -1,0 +1,33 @@
+.eventos {
+    width: 100%;
+    display: flex;
+}
+
+.eventos div {
+    width: 50%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.eventos h1 {
+    font-size: 36px;
+}
+
+.eventos img {
+    width: 50%;
+}
+
+.eventos span {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.eventos p {
+    text-align: left;
+    width: 50%;
+}
+

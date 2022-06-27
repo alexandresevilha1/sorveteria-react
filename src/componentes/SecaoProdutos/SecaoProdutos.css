@@ -1,0 +1,40 @@
+.produtos {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    padding: 100px;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    text-align: center;
+}
+
+.cards div {
+    width: 30%;
+    height: 400px;
+    margin: 10px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    box-shadow: 2px 2px 15px 2px #d9dde1;
+}
+
+.cards img {
+    width: 100%;
+    height: 50%;
+}
+
+.cards h1 {
+    font-size: 18px;
+}
+

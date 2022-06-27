@@ -1,0 +1,29 @@
+.rodape {
+    background-color: black;
+    color: white;
+}
+
+.contatos {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 300px;
+}
+
+.contatos div {
+    margin: 0 50px;
+}
+
+.contatos img {
+    width: 150px;
+    margin: 0 50px;
+}
+
+.assinatura {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+}
+

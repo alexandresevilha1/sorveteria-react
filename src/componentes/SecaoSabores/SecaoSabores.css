@@ -1,0 +1,34 @@
+.sabores {
+    display: flex;
+    width: 100%;
+}
+
+.sabores img {
+    width: 50%;
+}
+
+.sabores div {
+    width: 50%;
+
+    text-align: center;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.sabores h1 {
+    font-size: 36px;
+}
+
+.sabores span {
+    font-weight: bold;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.sabores p {
+    width: 50%;
+    text-align: left;
+}
